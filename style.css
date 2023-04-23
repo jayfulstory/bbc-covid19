@@ -89,11 +89,6 @@ img {
   box-shadow: rgba(0, 0, 0, 0.3) 0 0 3px;
 }
 
-.global-footer {
-  padding: 2rem 0;
-  text-align: center;
-}
-
 .strikethrough {
   text-decoration: line-through;
 }
